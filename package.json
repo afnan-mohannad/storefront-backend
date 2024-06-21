@@ -1,5 +1,5 @@
 {
-    "name": "udacity-build-a-storefront-backend",
+    "name": "storefront-backend",
     "version": "1.0.0",
     "description": "Build a JavaScript API based on a requirements given by the stakeholders. You will architect the database, tables, and columns to fulfill the requirements.",
     "main": "server.ts",

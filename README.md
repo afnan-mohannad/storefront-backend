@@ -1,10 +1,10 @@
 # storefront-backend
-Build a JavaScript API based on a requirements given by the stakeholders. You will architect the database, tables, and columns to fulfill the requirements.
+My JavaScript API based on a requirements given by the udacity team. I will architect the database, tables, and columns to fulfill the requirements.
 
 The database schema and and API route information can be found in the (REQUIREMENT.md)
 
 ## Installation Instructions:
-This section contains all the packages used in this project and how to install them. However, you can fork this repo and run the following command at the root directory to install all packages.
+This section contains all the packages used in this project and how to install them.
 
 `yarn` or `npm install`
 
@@ -73,7 +73,7 @@ Navigate to the root directory and run the command below to migrate the database
 `yarn dev-up`
 
 ## Environmental Variables Set up
-Bellow are the environmental variables that needs to be set in a `.env` file. This is the default setting that I used for development, but you can change it to what works for you. 
+Bellow are the environmental variables that needs to be set in a `.env` file. This is the default setting that I used for development.
 
 **NB:** The given values are used in development and testing but not in production. 
 ```
@@ -112,6 +112,3 @@ Run test with
 
 It sets the environment to `test`, migrates up tables for the test database, run the test then migrate down all the tables for the test database. 
 
-
-
-# storefront-backend
